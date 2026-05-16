@@ -1,5 +1,4 @@
-# Service Request Board — GlobalTNA Assessment
-
+# Service Request Board 
 **Repository:** https://github.com/Yenura/Mini-Service-Request-Board-Project
 
 A mini full-stack app where homeowners post service requests and tradespeople browse, view details, and update status.
