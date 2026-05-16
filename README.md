@@ -106,7 +106,3 @@ App runs at **http://localhost:3000**
 3. **Job detail** (`/jobs/[id]`) — Full details, status dropdown, delete
 
 The frontend calls the Express API only (not MongoDB directly).
-
-## Submission
-
-Push to a public GitHub repo and email the link to your GlobalTNA contact, CC: **nimeshsago@gmail.com**
